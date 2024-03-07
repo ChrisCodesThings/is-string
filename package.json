@@ -1,15 +1,14 @@
 {
-  "name": "@chriscodesthings/stub-repo",
+  "name": "@chriscodesthings/is-string",
   "version": "1.0.0",
-  "description": "npm package template",
+  "description": "Determine if something is a string type",
   "keywords": [
-    "stub",
-    "package",
-    "template"
+    "type",
+    "string"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChrisCodesThings/stub-repo.git"
+    "url": "git+https://github.com/ChrisCodesThings/is-string.git"
   },
   "main": "index.js",
   "type": "module",
@@ -21,7 +20,7 @@
     "node": ">=18.0.0"
   },
   "bugs": {
-    "url": "https://github.com/ChrisCodesThings/stub-repo/issues"
+    "url": "https://github.com/ChrisCodesThings/is-string/issues"
   },
   "scripts": {
     "test": "NODE_OPTIONS='--experimental-vm-modules' jest",
