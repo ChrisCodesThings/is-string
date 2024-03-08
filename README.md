@@ -16,3 +16,17 @@ import isString from '@chriscodesthings/is-string';
 console.log(isString("hello world!"));
 // => true
 ```
+
+## Syntax
+
+```js
+isString( var);
+```
+
+### Parameters
+```
+var
+```
+
+## Description
+
