@@ -25,8 +25,7 @@ isString( var);
 
 ### Parameters
 
-- *var*
-any variable to test
+- *var*: any variable to test
 
 ### Return Value
 
