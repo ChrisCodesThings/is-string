@@ -20,7 +20,7 @@ console.log(isString("hello world!"));
 ## Syntax
 
 ```js
-isString( var);
+isString(var);
 ```
 
 ### Parameters
