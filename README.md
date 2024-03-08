@@ -24,9 +24,14 @@ isString( var);
 ```
 
 ### Parameters
-```
-var
-```
+
+- *var*
+any variable to test
+
+### Return Value
+
+Returns boolean true if var is a string, false otherwise.
 
 ## Description
 
+Does what it says on the tin.
