@@ -29,7 +29,7 @@ isString(var);
 
 ### Return Value
 
-Returns boolean true if var is a string, false otherwise.
+Returns boolean true if *var* is a string, false otherwise.
 
 ## Description
 
